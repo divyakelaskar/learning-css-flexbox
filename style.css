@@ -1,0 +1,10 @@
+.flexbox-container{
+
+} 
+
+.flexbox-item {
+    width : 200px;
+    margin : 50px;
+    border : 5px;
+    background-color: azure;
+}
